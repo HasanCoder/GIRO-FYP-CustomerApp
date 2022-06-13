@@ -1,0 +1,32 @@
+[
+    {
+        "Location": "Saddar",
+        "Longitude": 24.8532,
+        "Latitude": 67.0167
+    },
+    {
+        "Location": "Soldier Bazar",
+        "Longitude": 24.8532,
+        "Latitude": 67.0167
+    },
+    {
+        "Location": "Gulshan-e-Iqbal",
+        "Longitude": 24.9180,
+        "Latitude": 67.0971
+    },
+    {
+        "Location": "North Nazimabad",
+        "Longitude": 24.9372,
+        "Latitude": 67.0423
+    },
+    {
+        "Location": "Liyari",
+        "Longitude": 24.8784,
+        "Latitude": 67.0103
+    },
+    {
+        "Location": "Manzil Pump",
+        "Longitude": 24.8547,
+        "Latitude": 67.2291
+    }
+]
